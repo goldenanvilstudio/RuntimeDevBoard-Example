@@ -19,3 +19,5 @@ Thumbs.db
 
 # Kiro IDE
 .kiro/
+
+*.md
