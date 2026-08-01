@@ -16,3 +16,6 @@ Saved/
 # OS files
 Thumbs.db
 .DS_Store
+
+# Kiro IDE
+.kiro/
